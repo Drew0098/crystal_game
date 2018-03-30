@@ -1,0 +1,32 @@
+.crystals {
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+#rules {
+    margin-top: 20px;
+    padding: 8px;
+    background-color: aquamarine;
+    width: 400px;
+    align-content: center;
+}
+#crystalImages {
+    margin-top: 20px;
+}
+#updatingDiv {
+    padding:8px;
+    background-color: violet;
+    width: 400px;
+    font-size: 20px;
+    font-weight: bold;
+}
+h1 {
+    font-size: 30px;
+    margin-left: 15px;
+}
+h2 {
+    font-size: 24px;
+}
+body {
+    margin-left: 15px;
+}
